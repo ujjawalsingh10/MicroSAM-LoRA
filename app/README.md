@@ -1,15 +1,4 @@
 
----
-title: MicroSAM-LoRA
-emoji: 🩻
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-sdk_version: 6.31.0
-app_file: app.py
-pinned: false
----
-
 
 # MicroSAM-LoRA
 
